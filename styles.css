@@ -52,7 +52,7 @@ body {
   #preparation {
     font-size: 1.2rem;
     margin-bottom: 20px;
-
+  }
   dt {
     float: left;
     margin-right: 5px;
@@ -68,7 +68,7 @@ body {
   #nutrition li {
     list-style-type: none;
     border-bottom: grey dotted 1px;
-    #background-color: red;
+    background-color: red;
     float: left;
     width: 48%
   }
